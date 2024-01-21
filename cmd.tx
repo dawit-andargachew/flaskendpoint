@@ -1,0 +1,3 @@
+pip install virtaulenv
+virtaulenv use_chatgpt
+Scripts\activate
