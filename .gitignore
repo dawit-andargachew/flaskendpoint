@@ -1,6 +1,7 @@
 Lib
 Scripts
 sample
+/sample/*
 main.py
 a.txt
 .env
