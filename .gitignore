@@ -1,7 +1,8 @@
-# created by virtualenv automatically
 Lib
 Scripts
 sample
 main.py
-*.env
 a.txt
+.env
+cmd.tx
+.gitignore
