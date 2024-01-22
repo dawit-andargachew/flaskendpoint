@@ -18,7 +18,10 @@ Create a virtual environment to isolate the project dependencies:
 cd your_project_folder
 
 # Create a virtual environment
-python -m venv venv
+python -m venv chat-gpt
+
+# move to the newly created python environment
+cd chat-gpt
 
 # Activate the virtual environment
 # On Windows
